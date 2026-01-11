@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "それは貴方の好きな色",
+  "base_artist": "阿修",
+  "createdAt": "2026-01-11T13:38:38.895004Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "それは貴方の好きな色",
+      "artist": "阿修",
+      "has_synced": false,
+      "path": "select/pl_01_それは貴方の好きな色_阿修.txt"
+    }
+  ]
+}
